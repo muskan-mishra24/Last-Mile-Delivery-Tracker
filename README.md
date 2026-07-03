@@ -77,6 +77,21 @@ If marked `failed`:
 - System auto-assigns a new agent for the rescheduled attempt
 
 ---
+## 📸 Screenshots
+
+### Login Page
+
+![Login](assets/login.png)
+
+### Customer Dashboard
+
+![Customer Dashboard](assets/customer_dashboard.png)
+
+### Admin Dashboard
+
+![Admin Dashboard](assets/adminDashboard.png)
+
+---
 
 ## Tech Stack
 
