@@ -89,7 +89,7 @@ If marked `failed`:
 ![Customer Dashboard](assets/customer_dashboard.png)
 ![Customer Dashboard](assets/cust_order_status.png)
 ![Customer Dashboard](assets/new_order_created.png)
-![Customer Dashboard](assets/cust_feature.png)
+![Customer Dashboard](assets/cust_feature.mp4)
 
 ### Admin Dashboard
 
@@ -109,7 +109,7 @@ If marked `failed`:
 ![Delivery Agent Dashboard](assets/agents.png)
 ![Delivery Agent Dashboard](assets/delivery_agent_portal.png)
 ![Delivery Agent Dashboard](assets/agent_orders.png)
-![Delivery Agent Dashboard](assets/agent_dashboard.png)
+![Delivery Agent Dashboard](assets/agent_features.mp4)
 
 ### Mail notifications
 ![Mail notifications](assets/email_notifications.png)
