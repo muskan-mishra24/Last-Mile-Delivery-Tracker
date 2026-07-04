@@ -89,7 +89,7 @@ If marked `failed`:
 ![Customer Dashboard](assets/customer_dashboard.png)
 ![Customer Dashboard](assets/cust_order_status.png)
 ![Customer Dashboard](assets/new_order_created.png)
-![Customer Dashboard](assets/cust_feature.mp4)
+![Customer Dashboard](assets/cust_features.png)
 
 ### Admin Dashboard
 
