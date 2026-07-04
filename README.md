@@ -4,10 +4,8 @@ A full-stack delivery management platform where customers place orders with auto
 
 ---
 ## 🚀 Live Demo
-
-- **Frontend:** https://last-mile-delivery-tracker-1-035t.onrender.com
-- **Backend API:** https://last-mile-delivery-tracker-hl9j.onrender.com
-
+- 🌐 **Live Application:** https://last-mile-delivery-tracker-1-035t.onrender.com
+- ⚙️ **Backend API:** https://last-mile-delivery-tracker-hl9j.onrender.com
 ---
 
 ## Table of Contents
