@@ -3,6 +3,13 @@
 A full-stack delivery management platform where customers place orders with auto-calculated shipping charges, delivery agents update order status in real time, and admins manage zones, rate cards, and agent assignments. Email notifications are sent to customers on every status change.
 
 ---
+## 🚀 Live Demo
+
+[![Live Website](https://img.shields.io/badge/🌐-Live%20Website-blue?style=for-the-badge)](https://last-mile-delivery-tracker-frontend.onrender.com)
+
+[![Backend API](https://img.shields.io/badge/API-Backend-green?style=for-the-badge)](https://last-mile-delivery-tracker-hl9j.onrender.com)
+
+---
 
 ## Table of Contents
 
