@@ -94,6 +94,7 @@ If marked `failed`:
 ### Admin Dashboard
 
 ![Admin Dashboard](assets/adminDashboard.png)
+![Admin Dashboard](assets/admin_features.png)
 ![Admin Dashboard](assets/status_created.png)
 ![Admin Dashboard](assets/status_delivered.png)
 ![Admin Dashboard](assets/zones.png)
