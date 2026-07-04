@@ -115,7 +115,7 @@ If marked `failed`:
 ![Delivery Agent Dashboard](assets/agents.png)
 ![Delivery Agent Dashboard](assets/delivery_agent_portal.png)
 ![Delivery Agent Dashboard](assets/agent_orders.png)
-![Delivery Agent Dashboard](assets/agent_features.mp4)
+![Delivery Agent Dashboard](assets/agent_features.png)
 
 ### Mail notifications
 ![Mail notifications](assets/email_notifications.png)
