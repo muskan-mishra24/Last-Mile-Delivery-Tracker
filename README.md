@@ -79,17 +79,42 @@ If marked `failed`:
 ---
 ## 📸 Screenshots
 
-### Login Page
+### Login/Register Page
 
 ![Login](assets/login.png)
+![Login](assets/register.png)
 
 ### Customer Dashboard
 
 ![Customer Dashboard](assets/customer_dashboard.png)
+![Customer Dashboard](assets/cust_order_status.png)
+![Customer Dashboard](assets/new_order_created.png)
+![Customer Dashboard](assets/cust_feature.png)
 
 ### Admin Dashboard
 
 ![Admin Dashboard](assets/adminDashboard.png)
+![Admin Dashboard](assets/status_created.png)
+![Admin Dashboard](assets/status_delivered.png)
+![Admin Dashboard](assets/zones.png)
+![Admin Dashboard](assets/orderplacement.png)
+![Admin Dashboard](assets/ordercreated.png)
+![Admin Dashboard](assets/new_order_received.png)
+![Admin Dashboard](assets/new_order.png)
+![Admin Dashboard](assets/status_created.png)
+
+
+### Delivery Agent Dashboard
+![Delivery Agent Dashboard](assets/agent_dashboard.png)
+![Delivery Agent Dashboard](assets/agents.png)
+![Delivery Agent Dashboard](assets/delivery_agent_portal.png)
+![Delivery Agent Dashboard](assets/agent_orders.png)
+![Delivery Agent Dashboard](assets/agent_dashboard.png)
+
+### Mail notifications
+![Mail notifications](assets/email_notifications.png)
+![Mail notifications](assets/ethereal_email.png)
+
 
 ---
 
