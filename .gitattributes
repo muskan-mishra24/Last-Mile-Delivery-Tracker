@@ -1,2 +1,3 @@
-*.js linguist-language=React
-*.jsx linguist-language=React
+build/* linguist-vendored
+dist/* linguist-vendored
+.next/* linguist-vendored
